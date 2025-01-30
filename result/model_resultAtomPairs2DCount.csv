@@ -1,0 +1,11 @@
+models,r2_score
+LinearSVR,0.7958366745921667
+LinearRegression,-1.4843686026771376e+20
+VotingRegressor,-1.6492984474197787e+19
+StackingRegressor,0.567188196826871
+HistGradientBoostingRegressor,0.6754127808527521
+BaggingRegressor,0.6547546474830483
+AdaBoostRegressor,0.880737411493951
+ExtraTreesRegressor,0.9249370731029715
+GradientBoostingRegressor,0.8675289341168428
+DecisionTreeRegressor,0.926474856403406
